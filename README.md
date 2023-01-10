@@ -1,7 +1,7 @@
 ![MasterHead](https://th.bing.com/th/id/R.57f8eb298d042e90b7b8f50f3cf1efa9?rik=8dAY1MdjNzIpSQ&pid=ImgRaw&r=0)
 <h1 align="center">Hi 👋, I'm MOHAMMED MANGARI</h1>
 <h3 align="center">Full Stack Developer</h3>
-<img align="right" alt="CodingImage" width="300" src="https://raw.githubusercontent.com/mohitjaisal/ImageStore/master/Readme-MohitJaisal/GIFs/1-Developer.gif"/>
+<img align="right" alt="CodingImage" width="200" src="https://raw.githubusercontent.com/mohitjaisal/ImageStore/master/Readme-MohitJaisal/GIFs/1-Developer.gif"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohammedmangari&label=Profile%20views&color=0e75b6&style=flat" alt="mohammedmangari" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohammedmangari" alt="mohammedmangari" /></a> </p>
