@@ -1,4 +1,4 @@
-![MasterHead](https://th.bing.com/th/id/R.57f8eb298d042e90b7b8f50f3cf1efa9?rik=8dAY1MdjNzIpSQ&pid=ImgRaw&r=0)
+
 
 <h1 align="center">Hi 👋, I'm MOHAMMED MANGARI</h1>
 <h3 align="center">Full Stack Developer</h3>
