@@ -10,7 +10,7 @@
 
 <img align="right" alt="CodingImage" width="200" src="https://raw.githubusercontent.com/mohitjaisal/ImageStore/master/Readme-MohitJaisal/GIFs/1-Developer.gif"/>
 
-- 🌱 I’m currently learning **Spring Boot**
+<!--- 🌱 I’m currently learning **Spring Boot**-->
 
 - 💬 Ask me about **Java and JavaScript**
 
