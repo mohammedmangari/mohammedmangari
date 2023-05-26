@@ -12,7 +12,7 @@
 
 <!--- 🌱 I’m currently learning **Spring Boot**-->
 
-- 💬 Ask me about **Java and JavaScript**
+<!--- 💬 Ask me about **Java and JavaScript**-->
 
 - 📫 How to reach me **mohammedmangari20@gmail.com**
 
