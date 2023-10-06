@@ -18,7 +18,7 @@
 
 🌐 **API Development:** Building RESTful APIs is a core part of my skill set. I use tools like **Swagger** and **Postman** to design, document, and test APIs, enabling seamless communication between front-end and back-end components.
 
-🔧 **DevOps:** I'm well-versed in DevOps practices and tools like **Docker** and **Jenkins**. I use these tools to automate deployment processes and implement continuous integration and delivery (CI/CD) pipelines, ensuring efficient development workflows.
+
 
 ### Get in Touch
 
