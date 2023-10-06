@@ -4,7 +4,7 @@
 
 ### About Me
 
-👋 Hello! I'm Mohammed Mangari, a Moroccan Full Stack Developer 🇲🇦 with a passion for creating exceptional web applications. With a background in both front-end and back-end technologies, I excel in building end-to-end solutions that deliver seamless user experiences.
+👋 Hello! I'm Mohammed Mangari, a Moroccan Full Stack Developer with a passion for creating exceptional web applications. With a background in both front-end and back-end technologies, I excel in building end-to-end solutions that deliver seamless user experiences.
 
 ### My Skills
 
