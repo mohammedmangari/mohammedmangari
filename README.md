@@ -1,8 +1,6 @@
-
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=mohammedmangari&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
-
 
 ### About Me
 
@@ -18,12 +16,9 @@
 
 🌐 **API Development:** Building RESTful APIs is a core part of my skill set. I use tools like **Swagger** and **Postman** to design, document, and test APIs, enabling seamless communication between front-end and back-end components.
 
-
-
 ### Get in Touch
 
-I'm always open to new opportunities, collaborations, and exciting projects that allow me to leverage my full-stack development skills. Whether it's front-end or back-end, I'm eager to contribute to web applications that deliver outstanding user experiences. Feel free to reach out to me via email at mohammedmangari20@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/mohammed-mangari-47b67b237/).
-
+I'm currently looking for end-of-studies internships. Whether it's front-end or back-end, I'm eager to contribute to web applications that deliver outstanding user experiences. Feel free to reach out to me via email at mohammedmangari20@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/mohammed-mangari-47b67b237/).
 
 
 
