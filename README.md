@@ -16,9 +16,6 @@
 
 🌐 **API Development:** Building RESTful APIs is a core part of my skill set. I use tools like **Swagger** and **Postman** to design, document, and test APIs, enabling seamless communication between front-end and back-end components.
 
-### Get in Touch
-
-I'm currently looking for end-of-studies internships. Whether it's front-end or back-end, I'm eager to contribute to web applications that deliver outstanding user experiences. Feel free to reach out to me via email at mohammedmangari20@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/mohammed-mangari-47b67b237/).
 
 
 
